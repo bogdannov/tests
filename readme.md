@@ -43,6 +43,9 @@ You should try to build a test suite that is descriptive enough for another deve
 
 ![image](./red-green-refactor-tdd.png)
 
+# My certificate of complete course 
+![image](./certificate.png)
+
 ## Helpful links
 
 https://nodejs.org/api/assert.html#assertthrowsfn-error-message
